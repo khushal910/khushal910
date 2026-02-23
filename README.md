@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khushal</h1>
-
-<h3 align="center">
-🚀 CSE Student | MERN Stack Developer | AI Engineering Enthusiast
-</h3>
+<h3 align="center">MERN Stack Developer | AI Engineering Enthusiast | CSE Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;AI+Engineering+Explorer;System+Thinker+%F0%9F%A7%A0;Secure+Architecture+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineering+Explorer;System+Builder;Security+Focused+Mindset" />
 </p>
 
 <p align="center">
@@ -14,72 +11,61 @@
 
 ---
 
-# 🧠 About Me
+# 🛠 Tech Arsenal
 
-- 🎓 Computer Science Engineering Student  
-- 🔥 Focused on building scalable & secure systems  
-- 🌐 MERN Stack Developer  
-- 🤖 AI Engineering (ML + DL) Enthusiast
-- 🧠 Strong interest in backend architecture, automation & AI/ML  
-
----
-
-# 🛠 Tech Stack
-
-## 👨‍💻 Programming Languages
+## 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,mysql,java,js,python,perl,bash" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,perl,bash" />
 </p>
 
-- SQL  
-- Assembly Language  
-- Linux Shell Scripting  
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🌐 Full Stack Development (MERN)
+## 🌐 MERN Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
-✔ REST APIs  
-✔ JWT Authentication  
-✔ Cookies & Security  
-✔ CRUD Systems  
-✔ Protected Routes  
-
 ---
 
-## 🤖 AI & Machine Learning
+## 🤖 AI Engineering
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
-
-- Scikit-Learn  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-
----
-
-## 🧰 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
-- Kaggle (ML Competitions & Practice)  
-- Git Collaboration  
-- Linux Development Environment  
+---
+
+## 🧰 Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</p>
 
 ---
 
 
-# 🔥 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushal910&theme=tokyo-night&hide_border=true" />
@@ -87,28 +73,11 @@
 
 ---
 
-# 🎯 Current Focus
-
-- 🔐 Secure Full-Stack Systems  
-- 🤖 Advanced AI Engineering  
-- ⚙ Backend Optimization  
-- 📊 Strategy Automation  
-
----
-
 <details>
-<summary>🚀 Developer Philosophy (Click to Expand)</summary>
+<summary>⚡ Philosophy</summary>
 
-- Build systems, not shortcuts  
-- Security first mindset  
-- Discipline > Motivation  
-- Clarity in architecture  
-- Long-term thinking  
+System > Shortcut  
+Security First  
+Discipline Wins  
 
 </details>
-
----
-
-<h3 align="center">
-⚡ “Engineering is leverage. Discipline is compounding.” ⚡
-</h3>
