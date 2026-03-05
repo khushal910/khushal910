@@ -64,20 +64,4 @@
 
 ---
 
-
-# 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushal910&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-<details>
-<summary>⚡ Philosophy</summary>
-
-System > Shortcut  
-Security First  
-Discipline Wins  
-
 </details>
